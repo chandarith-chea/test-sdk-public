@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/chandarith-chea/test-sdk/compare/v1.0.6...v1.0.7) (2025-12-12)
+
+
+### Bug Fixes
+
+* use heredoc for node script to avoid shell escaping issues ([588bd6a](https://github.com/chandarith-chea/test-sdk/commit/588bd6a4007b7b3a0cb95f75b9699fbc37dd9a99))
+
 ## [1.0.6](https://github.com/chandarith-chea/test-sdk/compare/v1.0.5...v1.0.6) (2025-12-12)
 
 
