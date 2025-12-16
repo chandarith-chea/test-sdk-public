@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/chandarith-chea/test-sdk/compare/v1.0.8...v1.1.0) (2025-12-12)
+
+
+### Bug Fixes
+
+* fix unit test ([b81572b](https://github.com/chandarith-chea/test-sdk/commit/b81572b5c46f7fbdd66d81e6aeedaac7bee50060))
+
+
+### Features
+
+* Introduce build system to strip internal-only features and filter the public changelog. ([af5058e](https://github.com/chandarith-chea/test-sdk/commit/af5058e9fb2a9649464ecac549b648334acaf980))
+
 ## [1.0.8](https://github.com/chandarith-chea/test-sdk/compare/v1.0.7...v1.0.8) (2025-12-12)
 
 
