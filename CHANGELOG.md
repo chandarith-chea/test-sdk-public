@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/chandarith-chea/test-sdk/compare/v1.1.0...v1.2.0) (2025-12-16)
+
+
+### Features
+
+* **internal:** Introduce public/internal API separation for commands and types, updating build configurations and stripping logic. ([6b4e307](https://github.com/chandarith-chea/test-sdk/commit/6b4e307de8522b129669f3bdb6a06632f4fb2bcd))
+
 # [1.1.0](https://github.com/chandarith-chea/test-sdk/compare/v1.0.8...v1.1.0) (2025-12-12)
 
 
