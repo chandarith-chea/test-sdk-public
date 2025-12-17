@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/chandarith-chea/test-sdk/compare/v1.2.0...v1.2.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* **internal:** test message ([e8024fa](https://github.com/chandarith-chea/test-sdk/commit/e8024fa253d09601837f3f214dfae2617b5035ca))
+
 # [1.2.0](https://github.com/chandarith-chea/test-sdk/compare/v1.1.0...v1.2.0) (2025-12-16)
 
 
