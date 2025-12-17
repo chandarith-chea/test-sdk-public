@@ -1,16 +1,14 @@
+## [1.2.2](https://github.com/chandarith-chea/test-sdk/compare/v1.2.1...v1.2.2) (2025-12-17)
+
+* Bug fixes & improvements
+
 ## [1.2.1](https://github.com/chandarith-chea/test-sdk/compare/v1.2.0...v1.2.1) (2025-12-16)
 
-
-### Bug Fixes
-
-* **internal:** test message ([e8024fa](https://github.com/chandarith-chea/test-sdk/commit/e8024fa253d09601837f3f214dfae2617b5035ca))
+* Bug fixes & improvements
 
 # [1.2.0](https://github.com/chandarith-chea/test-sdk/compare/v1.1.0...v1.2.0) (2025-12-16)
 
-
-### Features
-
-* **internal:** Introduce public/internal API separation for commands and types, updating build configurations and stripping logic. ([6b4e307](https://github.com/chandarith-chea/test-sdk/commit/6b4e307de8522b129669f3bdb6a06632f4fb2bcd))
+* Bug fixes & improvements
 
 # [1.1.0](https://github.com/chandarith-chea/test-sdk/compare/v1.0.8...v1.1.0) (2025-12-12)
 
